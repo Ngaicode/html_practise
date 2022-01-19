@@ -12,3 +12,7 @@ const calcAge = (birthyear) => 2022 - birthyear;
 const myAge = calcAge(2000);
 console.log(myAge);
 console.log("meow");
+console.log(
+  "i finally managed to download nodejs via the node version manager.You can't believe how happy this has made me.I needed this win for today"
+);
+console.log(calcAge(2005));
